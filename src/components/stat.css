@@ -1,0 +1,18 @@
+
+.staticContainer{
+    display: table;
+}
+.staticTitle{
+    display: table-row;
+}
+.staticTitle>p{
+    padding: 10px;
+    display: table-cell;
+}
+.staticData{
+    display: table-row;
+}
+.staticData>p{
+    padding: 10px;
+    display: table-cell;
+}
